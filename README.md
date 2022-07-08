@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# Apps UMKM Penjualan JualinDev
 
 ## What is CodeIgniter?
 
